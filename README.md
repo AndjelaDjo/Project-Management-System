@@ -3,10 +3,10 @@ Project Management System is an application designed for managing projects, task
 
 # Projects
 Users can:
-Create a new project: Define basic information about the project, including name, description, and start date.
-Update a project: Modify existing project details to accommodate changes.
-Delete a project: Remove the project from the list.
-View detailed information: Display all relevant information about a specific project, including status, team members, and associated tasks.
+- **Create a new project**: Define basic information about the project, including name, description, and start date.
+- **Update a project**: Modify existing project details to accommodate changes.  
+- **Delete a project**: Remove the project from the list.  
+- **View detailed information**: Display all relevant information about a specific project.
 
 # Tasks
 The same functionalities apply to tasks:
