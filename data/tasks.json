@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Design Database Schema",
+        "description": "Design the initial schema for the project database.",
+        "status": "In Progress",
+        "createdOn": "2024-07-15T12:30:00.000Z",
+        "assignedTo": "66942ece619ddd4165fea5dd",
+        "dueDate": "2024-07-22T12:30:00.000Z",
+        "createdBy": "66942ece619ddd4165fea5dd" 
+    },
+    {
+        "title": "Setup Project Repository",
+        "description": "Initialize the repository and setup the project structure.",
+        "status": "To Do",
+        "createdOn": "2024-07-15T12:00:00.000Z",
+        "assignedTo": "6693f6c1157ce13217cc24c2",
+        "dueDate": "2024-07-20T12:00:00.000Z",
+        "createdBy": "6693f6c1157ce13217cc24c2"
+    }
+]

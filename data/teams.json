@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Development Team",
+      "members": [
+        "64a63bd7f3b7a55a4f7d2c1b", 
+        "64a63bd7f3b7a55a4f7d2c1c", 
+        "64a63bd7f3b7a55a4f7d2c1d"  
+      ],
+      "created_at": "2024-01-01T09:00:00Z"
+    },
+    {
+      "name": "Project Management Team",
+      "members": [
+        "64a63bd7f3b7a55a4f7d2c1e"  
+      ],
+      "created_at": "2024-01-02T10:00:00Z"
+    },
+    {
+      "name": "Administration Team",
+      "members": [
+        "64a63bd7f3b7a55a4f7d2c1f"  
+      ],
+      "created_at": "2024-01-03T11:00:00Z"
+    }
+  ]
+  
